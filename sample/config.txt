@@ -1,0 +1,9 @@
+## PLOT PARAMETERS
+Scheduler_Log_Name = interesting.csv
+Thread_Classifier_File = interesting.groups.csv
+Plot_File_Name = scheduler_plot
+Plot_Start_Time = 4294912824
+Plot_End_Time = 4294912922
+
+
+
